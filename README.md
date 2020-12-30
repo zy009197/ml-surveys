@@ -2,9 +2,7 @@
 
 It's hard to keep up with the latest and greatest in machine learning. Here's a selection of **survey papers summarizing the advances in the field**.
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
-
-Figuring out how to implement your ML project? Learn how other organizations did it 👉[`applied-ml`](https://github.com/eugeneyan/applied-ml)
+Figuring out how to implement your ML project? Learn how other organizations did it 👉[`applied-ml`](https://github.com/zy009197/Applied-ML)
 
 **Table of Contents**
 
@@ -16,6 +14,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - [Graph](#graph)
 - [Embeddings](#embeddings)
 - [Meta-learning and Few-shot Learning](#meta-learning-and-few-shot-Learning)
+- [Testing](#Testing)
 - [Others](#others)
 
 ## Recommendation
